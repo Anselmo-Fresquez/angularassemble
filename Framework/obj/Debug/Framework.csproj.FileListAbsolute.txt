@@ -1,0 +1,6 @@
+c:\users\anselmo fresquez\documents\visual studio 2013\Projects\Framework\Framework\bin\Framework.dll.config
+c:\users\anselmo fresquez\documents\visual studio 2013\Projects\Framework\Framework\bin\Framework.dll
+c:\users\anselmo fresquez\documents\visual studio 2013\Projects\Framework\Framework\bin\Framework.pdb
+c:\users\anselmo fresquez\documents\visual studio 2013\Projects\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+c:\users\anselmo fresquez\documents\visual studio 2013\Projects\Framework\Framework\obj\Debug\Framework.dll
+c:\users\anselmo fresquez\documents\visual studio 2013\Projects\Framework\Framework\obj\Debug\Framework.pdb

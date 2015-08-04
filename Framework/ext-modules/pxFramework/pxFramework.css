@@ -1,0 +1,86 @@
+/* //////////////////////////////////////////////////////////////////////// */
+/*                                 >= 0                                     */
+/* //////////////////////////////////////////////////////////////////////// */
+
+.px-title-bar {
+  background-color: white;
+  padding: 0 20px;
+  border-bottom: 2px solid white;
+}
+
+.px-title-area {
+  display: inline-block;
+}
+
+.px-icon {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 8px;
+  vertical-align: top;
+  border: 1px solid #999;
+}
+
+.px-logo-area {
+  text-align: center;
+}
+
+.px-logo-title {
+  color: #111;
+  margin-top: 6px;
+  font-size: 22px;
+}
+
+.px-logo-subtitle {
+  font-size: 13px;
+  margin-top: -13px;
+}
+
+.px-right-side-controls {
+  line-height: 60px;
+}
+
+.px-right-side-controls > div {
+  text-align: center;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+}
+
+/* //////////////////////////////////////////////////////////////////////// */
+/*                               >= 350px                                   */
+/* //////////////////////////////////////////////////////////////////////// */
+
+@media screen and (min-width: 350px) {
+  .btn {
+    display: inline;
+    width: inherit;
+    padding: 10px 5%;
+  }
+}
+
+/* //////////////////////////////////////////////////////////////////////// */
+/*                               >= 768px                                   */
+/* //////////////////////////////////////////////////////////////////////// */
+
+@media screen and (min-width: 768px) {
+  .px-right-side-controls > div {
+    text-align: right;
+  }
+
+  .px-title-area {
+    text-align: left;
+  }
+
+  .px-logo-area {
+    text-align: left;
+  }
+  
+  .btn {
+    width: inherit;
+  }
+}
+
